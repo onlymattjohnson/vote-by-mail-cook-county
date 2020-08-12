@@ -53,6 +53,16 @@ You must request your ballot by October 29, 2020.
 
 ## How do I return my ballot?
 
+### Returning your ballot in the City of Chicago
+If you are a Chicago resident, your signed and sealed ballot may be returned 
+* through USPS or a licensed courier
+* by personal delivery to Election Board at 69 W. Washington, Sixth Floor
+* at any secured **drop box** location which will be available at all City of Chicago early voting sites
+
+### Returning your ballot in Suburban Cook County
+If you are a Suburban Cook County reisdent, your signed and sealed ballot may be returned
+* through USPS or a licensed courier
+
 ## Are there any postage fees associated with returning my ballot?
 
 ## When do I need to return my ballot by?
