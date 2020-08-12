@@ -21,7 +21,7 @@ If you live in **Suburban Cook County**, you can request a mail ballot thru Octo
 
 ## How do I request an mail ballot if I am currently outside of the United States?
 
-If you are an Illinois resident that is **currently living outside of the United States**, you can request a mail ballot using the [Federal Postcard Application (FPCA)]((https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf)
+If you are an Illinois resident that is **currently living outside of the United States**, you can request a mail ballot using the [Federal Postcard Application (FPCA)](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf)
 
 ### City of Chicago
 
