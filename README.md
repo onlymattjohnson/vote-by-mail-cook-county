@@ -71,6 +71,12 @@ Your ballot must be postmarked by November 3, 2020.
 
 ## Can I track my ballot after I return it?
 
+### How do I track my ballot in Suburban Cook County?
+Suburban Cook County residents can track their ballot status through the [voter information tool](https://www.cookcountyclerk.com/service/your-voter-information) by clicking on **What is My Ballot Status?** and entering your information.
+
+>![2020-08-11 at 9 25 PM](https://user-images.githubusercontent.com/1672433/89968420-641aea00-dc19-11ea-8ca7-653e8151a4a8.png)
+
+
 ## Will my ballot be counted?
 
 ## Is voting by mail safe? 
