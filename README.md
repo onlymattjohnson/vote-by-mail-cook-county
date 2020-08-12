@@ -49,6 +49,8 @@ City of Chicago residents who are currently residing overseas should return thei
 
 ## When do I need to apply by?
 
+You must request your ballot by October 29, 2020.
+
 ## How do I return my ballot?
 
 ## Are there any postage fees associated with returning my ballot?
