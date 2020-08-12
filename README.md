@@ -1,6 +1,8 @@
 # How to vote by mail in Cook County
 
-This guide explains how to vote by mail in Cook County, Illinois.
+This guide explains how to vote by mail in Cook County, Illinois. This guide has been compiled for information purposes only, and is to my knowledge, accurate. For offical election information, please visit the following websites:
+* [Chicago Board of Elections](https://chicagoelections.gov/en/vote-by-mail.html)
+* [Cook County Clerk (Suburban)](https://www.cookcountyclerk.com/agency/vote-mail)
 
 
 ## Do I need an excuse to vote by mail?
