@@ -67,6 +67,8 @@ If you are a Suburban Cook County reisdent, your signed and sealed ballot may be
 
 ## When do I need to return my ballot by?
 
+Your ballot must be postmarked by November 3, 2020.
+
 ## Can I track my ballot after I return it?
 
 ## Will my ballot be counted?
