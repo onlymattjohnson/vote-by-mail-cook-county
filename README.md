@@ -29,23 +29,23 @@ City of Chicago residents who are currently residing overseas should return thei
 * by email at fpca@chicagoelections.gov
 * by fax to 312-269-0626 or 312-263-3649
 
-#### Temporarily residing outside of the USA
+#### Chicago residents temporarily residing outside of the USA
 **Unregistered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 5, 2020 to register and request a ballot.
 
 **Currently registered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 26, 2020 to request a ballot.
 
-#### Permanently residing outside of the USA
+#### Chicago residents permanently residing outside of the USA
 **Voters** who are permantly residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 5, 2020 to register and/or request a ballot.
 
 ### Suburban Cook County 
 
-#### Temporarily residing outside of the USA
-**Unregistered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 5, 2020 to register and request a ballot.
+#### Suburban Cook County residents temporarily residing outside of the USA
+**Unregistered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://www.cookcountyclerk.com/publications/federal-post-card-application) by October 4, 2020 to register and request a ballot.
 
-**Currently registered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 26, 2020 to request a ballot.
+**Currently registered voters** who are temporarily residing outside of the United States must submit the [FPCA Paper Form](https://www.cookcountyclerk.com/publications/federal-post-card-application) by October 24, 2020 to request a ballot.
 
-#### Permanently residing outside of the USA
-**Voters** who are permantly residing outside of the United States must submit the [FPCA Paper Form](https://app.chicagoelections.com/documents/general/FPCA-Federal-Post-Card-Application.pdf) by October 5, 2020 to register and/or request a ballot.
+#### Suburban Cook County residents permanently residing outside of the USA
+**Voters** who are permantly residing outside of the United States must submit the [FPCA Paper Form](https://www.cookcountyclerk.com/publications/federal-post-card-application) by October 4, 2020 to register and/or request a ballot.
 
 ## When do I need to apply by?
 
